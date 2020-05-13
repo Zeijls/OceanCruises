@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <a href="https://zeijls.github.io/RoyalLines/">
+  <a href="https://zeijls.github.io/OceanCruises/">
     <img src="https://img.shields.io/badge/demo-LIVE-brightgreen.svg?style=flat-square" alt="demo">
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -14,4 +14,4 @@
 
 <br>
 
-[Voor meer info kijk op mijn website](https://www.simonevanzeijl.nl/PDF/stageverslag.pdf)
+[Voor meer info kijk op mijn website](http://simonevanzeijl.nl/PDF/stageverslag.pdf)
